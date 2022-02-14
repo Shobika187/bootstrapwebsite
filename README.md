@@ -221,7 +221,8 @@ Home page
 </html>
 ```
 Gallery page:
-```[9:34 pm, 14/02/2022] Cheppal💩👠: <!DOCTYPE html>
+```
+ <!DOCTYPE html>
 <html lang="en">
 <head>
   <title>BPRD</title>
@@ -398,7 +399,7 @@ Gallery page:
 
 </body>
 </html>
-[9:37 pm, 14/02/2022] Cheppal💩👠: <!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
 <head>
   <title>BPRD</title>
@@ -578,7 +579,7 @@ Gallery page:
 ```
 About:
 ```
-[9:47 pm, 14/02/2022] Cheppal💩👠: <!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
 <head>
   <title>BPRD</title>
@@ -755,7 +756,7 @@ About:
 
 </body>
 </html>
-[9:55 pm, 14/02/2022] Cheppal💩👠: <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <title>BPRD</title>
@@ -966,4 +967,4 @@ About:
 
 ## Result:
 
-The bootstrap website is created successfully.
+The website is created successfully using bootstrap.
