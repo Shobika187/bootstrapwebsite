@@ -222,7 +222,7 @@ Home page
 ```
 Gallery page:
 ```
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <title>BPRD</title>
@@ -399,7 +399,7 @@ Gallery page:
 
 </body>
 </html>
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <title>BPRD</title>
